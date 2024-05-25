@@ -19,7 +19,7 @@ export default function SocialMedia() {
         <Row className="g-5">
           <Col md={3}>
             <a
-              href="https://www.instagram.com/_pruthvi_reddy_116_/"
+              href="https://www.instagram.com/_pruthvi_reddy__116/"
               target="_blank"
               rel="noreferrer"
               className="icon-colour  home-social-icons"
